@@ -1,1 +1,1 @@
-# HR_Analytics_cleaned-
+SQL data cleaning project using the Hr Analytics dataset
